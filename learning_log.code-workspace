@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.terminal.activateEnvironment": false,
+		"python.defaultInterpreterPath": "/Users/albertobc/.pyenv/versions/l_log/bin/python"
+	}
+}
